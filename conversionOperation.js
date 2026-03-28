@@ -27,3 +27,18 @@ console.log(typeof changeIsLoggedIn);
 console.log(changeIsLoggedIn);
 
 // in this case we can see that the value of isloggedIn is true which is a boolean value and it can be converted to a number. so it will return 1 which is the numeric value of true. if the value of isloggedIn is false it will return 0 which is the numeric value of false. but in the case of Name it will return NaN because it cannot be converted to a number. so it will return NaN which is the numeric value of Name.
+
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------------------operatorsin-------------------------------------------------------------javascript----------------------------------------------------------------------------------------------------------------------------------------------
+
+let a = 10
+let b = 20
+console.log(a + b); // addition operator
+console.log(a - b); // subtraction operator
+console.log(a * b); // multiplication operator
+console.log(a / b); // division operator
+console.log(a % b); // modulus operator
+console.log(a ** b); // exponentiation operator
+
+
+
